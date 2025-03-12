@@ -1,2 +1,2 @@
-# Automatizacion_Datos_Pycaret_Python
- Automatización de datos con Python y Pycaret
+Automatización de datos (AutoML), también conocido como machine learning, usando el lenguaje de programación Python y la librería gratuita pycaret. Aplicamos varios modelos de predicción, ajustamos los hiperparámetros, comparamos los modelos según las métricas, guardamos el modelo óptimo final y lo cargamos para su uso en cualquier otro momento. Más información en: https://proyectoa.com/automatizacion-de-datos-con-python-y-pycaret/
+
